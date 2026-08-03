@@ -12,6 +12,8 @@
 ##### XR-Animator to Godot OSCGroups Configuration
 ###### XR-Animator laptop sender
 `OscGroupClient.exe 165.22.82.70 22242 22246 22244 22245 kostasLaptop 12345 skeletonTest test123`
+###### and run a splitter py script
+`py vmc_oscgroups_bridge.py`
 
 ###### desktop Godot receiver
 `OscGroupClient.exe 165.22.82.70 22242 22246 22244 39539 kostasDesktop 12345 skeletonTest test123`
