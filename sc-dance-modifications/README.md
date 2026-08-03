@@ -1,6 +1,6 @@
 ### sc-dance-modifications
 
-##### xr_animator_vmc_music_rokoko.scd  must be evaluated at Ianis Super Collider
+##### If ianis wants to receive data from XR Animator,  xr_animator_vmc_music_rokoko.scd  must be evaluated at Ianis Super Collider
 
 ##### also the below snippets
 
