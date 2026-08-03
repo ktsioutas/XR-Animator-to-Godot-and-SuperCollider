@@ -1,4 +1,4 @@
-## XR-Aninator-to-Godot-and-SuperCollider
+## XR-Animator-to-Godot-and-SuperCollider
 ### General Instructions
 
 ##### SuperCollider to Godot OSCGroups Configuration
