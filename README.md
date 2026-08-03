@@ -1,5 +1,5 @@
 ## XR-Aninator-to-Godot-and-SuperCollider
-### Instructions
+### General Instructions
 
 #### SuperCollider to Godot OSCGroups Configuration
 ##### laptop sc-sender
