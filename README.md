@@ -1,11 +1,11 @@
 ## XR-Aninator-to-Godot-and-SuperCollider
 ### General Instructions
 
-#### SuperCollider to Godot OSCGroups Configuration
-##### laptop sc-sender
+##### SuperCollider to Godot OSCGroups Configuration
+###### laptop sc-sender
 `OscGroupClient.exe 165.22.82.70 22242 22346 22344 22345 kostasSC 12345 scDanceGroup test123`
 
-##### desktop godot receiver
+###### desktop godot receiver
 `OscGroupClient.exe 165.22.82.70 22242 22446 22444 22245 godotSC 12345 scDanceGroup test123`
 
 
@@ -16,8 +16,8 @@
 ###### desktop Godot receiver
 `OscGroupClient.exe 165.22.82.70 22242 22246 22244 39539 kostasDesktop 12345 skeletonTest test123`
 
-#### Ianis in SuperCollider
-##### Receive from XR Animator /rokoko format data additional OSGroup Command
+##### Ianis in SuperCollider
+###### Receive from XR Animator /rokoko format data additional OSGroup Command
 `OscGroupClient.exe 165.22.82.70 22242 22546 22544 57130 iannisVMC 12345 skeletonTest test123`
 
 
