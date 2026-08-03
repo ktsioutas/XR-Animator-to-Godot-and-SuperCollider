@@ -17,7 +17,7 @@
 `OscGroupClient.exe 165.22.82.70 22242 22246 22244 39539 kostasDesktop 12345 skeletonTest test123`
 
 #### Ianis in SuperCollider
-##### SuperCollider OSCGroups client to receive from XR Animator additional OSGroup Command
+##### Receive from XR Animator /rokoko format data additional OSGroup Command
 `OscGroupClient.exe 165.22.82.70 22242 22546 22544 57130 iannisVMC 12345 skeletonTest test123`
 
 
