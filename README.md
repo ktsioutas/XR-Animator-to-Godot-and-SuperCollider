@@ -1,4 +1,8 @@
 ## XR-Animator-to-Godot-and-SuperCollider
+### Synthesis of:
+### https://github.com/Malcolmnixon/GodotXRVmcTracker
+### https://github.com/ButzYung/SystemAnimatorOnline
+
 ### General Instructions
 
 ##### SuperCollider to Godot OSCGroups Configuration
