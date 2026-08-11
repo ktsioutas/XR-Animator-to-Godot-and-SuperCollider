@@ -5,7 +5,7 @@
 
 folder
 
-### The xr_body_tracker_mixer.gd must be attached to a child node o demo and saved in the:
+### The xr_body_tracker_mixer.gd must be attached to a child node of demo and saved in the:
 `\xarts\addons\scripts\`
 folder
 
