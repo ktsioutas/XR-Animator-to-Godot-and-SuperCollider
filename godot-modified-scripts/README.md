@@ -5,15 +5,15 @@
 
 folder
 
-### The sc_rokoko_tracker.gd must be saved in the:
-`\xarts\addons\Scripts\`
+### The xr_body_tracker_mixer.gd must be saved in the:
+`\xarts\addons\scripts\`
 folder
 
-### sc_rokoko_tracker.gd  
+### xr_body_tracker_mixer.gd  
 #### enables choosing data from SuperCollider or XR Animator to control the avatar.
 
-### sc_rokoko_tracker_2.gd   
+### xr_body_tracker_mixer_2.gd   
 #### SuperCollider controls lower body and XR Animator controls hands and head.
 
-### sc_rokoko_tracker_3.gd  
+### xr_body_tracker_mixer_3.gd  
 #### SuperCollider controls entire body and XR Animator controls the  head.
