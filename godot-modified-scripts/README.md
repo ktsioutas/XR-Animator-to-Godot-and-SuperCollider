@@ -1,11 +1,11 @@
 
-### The sc_rokoko_reader.gd   modified and must be saved in the:
+### The sc_rokoko_reader.gd and sc_rokoko_tracker.gd are  modified and must be saved in the:
 
 `\xarts\addons\god_sc_rokoko_tracker\`
 
 folder
 
-### The xr_body_tracker_mixer.gd must be saved in the:
+### The xr_body_tracker_mixer.gd must be attached to a child node o demo and saved in the:
 `\xarts\addons\scripts\`
 folder
 
