@@ -1,7 +1,3 @@
-
-### This script should run in the same machine with XR Animator application.
-#### It receives VMC packets from XR Animator in port 39538, makes
-
 ## VMC-to-OSCGroups Bridge Scripts
 
 These Python scripts act as local UDP bridges between **XR Animator** and an **OSCGroups client**.
