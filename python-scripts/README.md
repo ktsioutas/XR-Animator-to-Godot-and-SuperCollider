@@ -11,7 +11,7 @@ XR Animator → 127.0.0.1:39538 → Python bridge
 
 The scripts are not OSCGroups clients themselves. They forward packets to the local transmit port of an already running OSCGroups client.
 
-### `vmc_oscgroups_bridge_2.py`
+### `vmc_oscgroups_bridge.py`
 
 This is the basic bundle-splitting bridge.
 
