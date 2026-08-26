@@ -60,7 +60,7 @@ Facial values are limited to the valid range `0.0–1.0`. When multiple VRM pres
 The facial translation can be disabled with:
 
 ```bash
-python3 'vmc_oscgroups_bridge_2(1).py' --no-face-translation
+python3 'vmc_oscgroups_bridge_2.py' --no-face-translation
 ```
 
 Disabling it makes the extended script operate essentially as a bundle-splitting bridge.
@@ -70,26 +70,26 @@ Disabling it makes the extended script operate essentially as a bundle-splitting
 Run the basic bridge:
 
 ```bash
-python3 'vmc_oscgroups_bridge(2).py'
+python3 'vmc_oscgroups_bridge.py'
 ```
 
 Run the extended bridge with facial translation:
 
 ```bash
-python3 'vmc_oscgroups_bridge_2(1).py'
+python3 'vmc_oscgroups_bridge_2.py'
 ```
 
 Test either script without starting the bridge:
 
 ```bash
-python3 'vmc_oscgroups_bridge(2).py' --self-test
-python3 'vmc_oscgroups_bridge_2(1).py' --self-test
+python3 'vmc_oscgroups_bridge.py' --self-test
+python3 'vmc_oscgroups_bridge_2.py' --self-test
 ```
 
 Available network parameters can be inspected with:
 
 ```bash
-python3 'vmc_oscgroups_bridge_2(1).py' --help
+python3 'vmc_oscgroups_bridge_2.py' --help
 ```
 
 The main defaults are:
